@@ -1,0 +1,32 @@
+
+> my-app@0.1.0 dev
+> next dev
+
+(node:1974865) [DEP0040] DeprecationWarning: The `punycode` module is deprecated. Please use a userland alternative instead.
+(Use `node --trace-deprecation ...` to show where the warning was created)
+warn  - Port 3000 is in use, trying 3001 instead.
+ready - started server on 0.0.0.0:3001, url: http://localhost:3001
+info  - Loaded env from /home/ubuntu/Project/Saurabh-Pers/Saurabh-Biware/.env.local
+warn  - You have enabled experimental feature (appDir) in next.config.js.
+warn  - Experimental features are not covered by semver, and may cause unexpected or broken application behavior. Use at your own risk.
+
+event - compiled client and server successfully in 502 ms (167 modules)
+wait  - compiling /page (client and server)...
+event - compiled successfully in 554 ms (117 modules)
+(node:1974892) [DEP0040] DeprecationWarning: The `punycode` module is deprecated. Please use a userland alternative instead.
+(Use `node --trace-deprecation ...` to show where the warning was created)
+error - TypeError: (0 , _react).createServerContext is not a function
+    at createContext (/home/ubuntu/Project/Saurabh-Pers/Saurabh-Biware/node_modules/next/dist/client/components/hooks-server-context.js:24:64)
+    at Object.<anonymous> (/home/ubuntu/Project/Saurabh-Pers/Saurabh-Biware/node_modules/next/dist/client/components/hooks-server-context.js:37:24)
+    at Module._compile (node:internal/modules/cjs/loader:1455:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1534:10)
+    at Module.load (node:internal/modules/cjs/loader:1265:32)
+    at Module._load (node:internal/modules/cjs/loader:1081:12)
+    at Module.require (node:internal/modules/cjs/loader:1290:19)
+    at require (node:internal/modules/helpers:188:18)
+    at patchFetch (/home/ubuntu/Project/Saurabh-Pers/Saurabh-Biware/node_modules/next/dist/server/app-render.js:92:37)
+    at Object.renderToHTMLOrFlight (/home/ubuntu/Project/Saurabh-Pers/Saurabh-Biware/node_modules/next/dist/server/app-render.js:282:5) {
+  page: '/'
+}
+wait  - compiling /_error (client and server)...
+event - compiled client and server successfully in 81 ms (264 modules)
