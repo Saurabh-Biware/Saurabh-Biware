@@ -1,7 +1,5 @@
-## Hi there 👋
 
-
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+There,+Myself+Saurabh+Biware;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+There+👋,+Myself+Saurabh+Biware;)](https://git.io/typing-svg)
 
 Here are some ideas to get you started:
 
