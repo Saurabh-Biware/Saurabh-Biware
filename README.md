@@ -1,6 +1,8 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+There+👋,+Myself+Saurabh+Biware;)](https://git.io/typing-svg)
 
+I'm a passionate solution provider interested in a variety of technologies. This is my corner of the internet where I share my projects and ideas.
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
