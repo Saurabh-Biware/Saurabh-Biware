@@ -1,5 +1,5 @@
 
-#[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+There+👋,+Myself+Saurabh+Biware;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+There+👋,+Myself+Saurabh+Biware;)](https://git.io/typing-svg)
 
 ## I'm a passionate full-stack software developer who loves building user-centric applications from the ground up. I enjoy tackling complex challenges and constantly learning new technologies.
 
