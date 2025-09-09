@@ -1,9 +1,9 @@
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+There+👋,+Myself+Saurabh+Biware;)](https://git.io/typing-svg)
+#[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+There+👋,+Myself+Saurabh+Biware;)](https://git.io/typing-svg)
 
-I'm a passionate full-stack software developer who loves building user-centric applications from the ground up. I enjoy tackling complex challenges and constantly learning new technologies.
+## I'm a passionate full-stack software developer who loves building user-centric applications from the ground up. I enjoy tackling complex challenges and constantly learning new technologies.
 
-About Me
+### About Me
 🔭 I'm currently working on a scalable data-driven application using a modern microservices architecture.
 
 🌱 I'm currently learning more about Docker orchestration and advanced cloud deployments on AWS.
@@ -19,7 +19,7 @@ About Me
 ⚡ Fun fact: I have more than 5,000 hours in Dota 2, but I still haven't found a hero I can't feed with.
 
 
-Skills and Expertise
+### Skills and Expertise
 Programming Languages: JavaScript, TypeScript, Python, MySQL, OOPS, Node.js
 
 Libraries & Frameworks: React, Angular, Vue, Express, Pandas, Numpy, Plotly, D3.js, Nuxt.js, Material UI, Jest, React testing library
