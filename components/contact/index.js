@@ -28,10 +28,10 @@ function Contact() {
             if (name !== "" && email !== "" && message !== "") {
                 emailjs
                     .send(
-                        "service_new_db",
-                        "template_new_db",
+                        process.env.NEXT_PUBLIC_EMAILJS_SERVICE_ID,
+                        process.env.NEXT_PUBLIC_EMAILJS_TEMPLATE_ID,
                         templateParams,
-                        "new_public_key"
+                        process.env.NEXT_PUBLIC_EMAILJS_PUBLIC_KEY
                     )
                     .then(
                         () => {
