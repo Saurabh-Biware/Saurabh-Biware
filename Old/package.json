@@ -26,7 +26,7 @@
     "react-window-size": "^1.2.2",
     "recharts": "^1.6.1"
   },
-  "homepage": "https://miteshtagadiya.js.org",
+  "homepage": "https://saurabhbiware.netlify.app",
   "scripts": {
     "start": "GENERATE_SOURCEMAP=false react-scripts start && npm run delete-maps",
     "build": "GENERATE_SOURCEMAP=false react-scripts build && npm run delete-maps",

@@ -7,19 +7,19 @@ export const metadata = {
     description:
         "Let's collaborate! Reach out to discuss projects, opportunities, or just to say hello. I'm excited to connect and explore potential collaborations in the world of web development and beyond.",
     alternates: {
-        canonical: "https://miteshtagadiya.js.org/projects",
+        canonical: "https://saurabhbiware.netlify.app/",
     },
     openGraph: {
         title: "Get in Touch - Connect with Me - Saurabh Biware",
         description:
             "Let's collaborate! Reach out to discuss projects, opportunities, or just to say hello. I'm excited to connect and explore potential collaborations in the world of web development and beyond.",
-        url: "https://miteshtagadiya.js.org/projects",
+        url: "https://saurabhbiware.netlify.app/",
     },
     twitter: {
         title: "Get in Touch - Connect with Me - Saurabh Biware",
         description:
             "Let's collaborate! Reach out to discuss projects, opportunities, or just to say hello. I'm excited to connect and explore potential collaborations in the world of web development and beyond.",
-        url: "https://miteshtagadiya.js.org/projects",
+        url: "https://saurabhbiware.netlify.app/",
     },
 };
 

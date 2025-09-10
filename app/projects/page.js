@@ -8,19 +8,19 @@ export const metadata = {
     description:
         "I love coding using tools like React, NextJS, Tailwind, and many more! Here are some of my favorite projects.",
     alternates: {
-        canonical: "https://miteshtagadiya.js.org/projects",
+        canonical: "https://saurabhbiware.netlify.app",
     },
     openGraph: {
         title: "Projects - Saurabh Biware",
         description:
             "I love coding using tools like React, NextJS, Tailwind, and many more! Here are some of my favorite projects.",
-        url: "https://miteshtagadiya.js.org/projects",
+        url: "https://saurabhbiware.netlify.app",
     },
     twitter: {
         title: "Projects - Saurabh Biware",
         description:
             "I love coding using tools like React, NextJS, Tailwind, and many more! Here are some of my favorite projects.",
-        url: "https://miteshtagadiya.js.org/projects",
+        url: "https://saurabhbiware.netlify.app",
     },
 };
 

@@ -17,18 +17,18 @@ export const metadata = {
     description:
         "Experienced ReactJS developer adept in crafting dynamic web applications with Next.js and Tailwind CSS. Explore my portfolio for innovative projects and seamless user experiences.",
     alternates: {
-        canonical: "https://miteshtagadiya.js.org/",
+        canonical: "https://saurabhbiware.netlify.app/",
     },
-    metadataBase: new URL("https://miteshtagadiya.js.org"),
+    metadataBase: new URL("https://saurabhbiware.netlify.app"),
     openGraph: {
         title: "Saurabh Biware - Web Developer, Designer and Creator.",
         description:
             "Experienced ReactJS developer adept in crafting dynamic web applications with Next.js and Tailwind CSS. Explore my portfolio for innovative projects and seamless user experiences.",
-        url: "https://miteshtagadiya.js.org",
+        url: "https://saurabhbiware.netlify.app",
         siteName: "Saurabh Biware",
         images: [
             {
-                url: "https://miteshtagadiya.js.org/static/misc/og.png",
+                url: "https://saurabhbiware.netlify.app/static/misc/og.png",
                 alt: "Saurabh Biware",
             },
         ],
@@ -77,9 +77,9 @@ export const metadata = {
         title: "Saurabh Biware - Web Developer, Designer and Creator.",
         description:
             "Experienced ReactJS developer adept in crafting dynamic web applications with Next.js and Tailwind CSS. Explore my portfolio for innovative projects and seamless user experiences.",
-        url: "https://miteshtagadiya.js.org",
+        url: "https://saurabhbiware.netlify.app",
         images: {
-            url: "https://miteshtagadiya.js.org/static/misc/og.png",
+            url: "https://saurabhbiware.netlify.app/static/misc/og.png",
             alt: "Saurabh Biware",
         },
     },
@@ -104,7 +104,7 @@ export default function RootLayout({ children }) {
 new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
 j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
-})(window,document,'script','dataLayer','G-4H4HEZKQT1');`,
+})(window,document,'script','dataLayer','${process.env.NEXT_PUBLIC_GA_ID}');`,
                     }}
                 ></script>
                 <script
@@ -113,7 +113,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
               window.dataLayer = window.dataLayer || [];
               function gtag(){dataLayer.push(arguments);}
               gtag('js', new Date());
-              gtag('config', 'G-4H4HEZKQT1', {
+              gtag('config', '${process.env.NEXT_PUBLIC_GA_ID}', {
                 page_path: window.location.pathname,
               });
           `,

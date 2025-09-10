@@ -136,7 +136,7 @@ function Footer() {
                     <div className="mt-2 text-xs ">
                         Made by{" "}
                         <a
-                            href="mailto:miteshtagadiya@gmail.com"
+                            href="mailto:saurabhbiware@gmail.com"
                             className="text-fun-gray-light font-medium"
                         >
                             Saurabh Biware
