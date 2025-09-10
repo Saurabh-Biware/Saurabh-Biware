@@ -26,7 +26,7 @@ function CTA() {
 
             <img
                 alt="fancyLines"
-                className="sqD min-w-[800px] bottom-[-100px] left-1/2 sm:bottom-[-150px] -translate-x-1/2 object-cover sm:min-w-[1100px]"
+                className="sqD absolute min-w-[800px] bottom-[-100px] left-1/2 transform -translate-x-1/2 sm:bottom-[-150px] object-cover sm:min-w-[1100px]"
                 style={{ zIndex: "-10" }}
                 src={`${process.env.NEXT_PUBLIC_BASE_URL}static/doodles/hero/fancyLines.svg`}
             />
