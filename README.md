@@ -29,3 +29,6 @@ Tools & Platforms: Git, AWS, Postman, Docker, JIRA, Jenkins, Adobe XD, RestAPI
 Concepts: Microservices, API Gateway, Docker orchestration, scalable data-driven applications
 
 Specialization: IOT (OPCUA protocol)
+
+### GitHub Activity
+![Snake animation](https://raw.githubusercontent.com/Saurabh-Biware/Saurabh-Biware/output/github-contribution-grid-snake.svg)
