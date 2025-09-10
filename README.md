@@ -31,4 +31,4 @@ Concepts: Microservices, API Gateway, Docker orchestration, scalable data-driven
 Specialization: IOT (OPCUA protocol)
 
 ### GitHub Activity
-![Snake animation](https://raw.githubusercontent.com/Saurabh-Biware/Saurabh-Biware/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/Saurabh-Biware/Saurabh-Biware/output/github-contribution-grid-snake-dark.svg)
