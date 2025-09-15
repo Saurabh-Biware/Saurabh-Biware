@@ -4,7 +4,7 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=00C2FF&center=true&vCenter=true&width=550&lines=Passionate+Software+Developer;Building+Scalable+Applications;Lifelong+Learner+%26+Tech+Explorer;5000%2B+hours+in+Dota+2+🎮" alt="Typing SVG" />
 
-✨ _"Building user-centric applications, one commit at a time"_
+✨ _"Crafting elegant solutions through clean code and thoughtful design"_
 
 </div>
 
