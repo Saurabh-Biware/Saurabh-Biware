@@ -126,7 +126,7 @@
 
 ### 📫 Connect With Me  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-181717?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://linkedin.com/in/saurabhbiware)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-181717?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://linkedin.com/in/saurabh-biware)  
 [![Portfolio](https://img.shields.io/badge/Portfolio-181717?style=for-the-badge&logo=About.me&logoColor=white)](https://saurabhbiware.netlify.app/)  
 
 </div>
