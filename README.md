@@ -1,133 +1,98 @@
 <div align="center">
 
-# 👋 Hey there! I'm a Full-Stack Developer
+# 👋 Hey there, I'm a Full-Stack Developer 🚀  
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&vCenter=true&width=500&lines=Passionate+Full-Stack+Developer;Building+User-Centric+Applications;Always+Learning+New+Technologies;5000%2B+Hours+in+Dota+2+%F0%9F%8E%AE" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=00C2FF&center=true&vCenter=true&width=550&lines=Passionate+Software+Developer;Building+Scalable+Applications;Lifelong+Learner+%26+Tech+Explorer;5000%2B+hours+in+Dota+2+🎮" alt="Typing SVG" />
 
-*I'm a passionate full-stack software developer who loves building user-centric applications from the ground up. I enjoy tackling complex challenges and constantly learning new technologies.*
+✨ *"Building user-centric applications, one commit at a time"*  
 
 </div>
 
 ---
 
-## 🚀 About Me
+## 🚀 About Me  
 
-<table>
-<tr>
-<td width="50%">
-
-### 🔭 **Currently Working On**
-Scalable data-driven application using modern microservices architecture
-
-### 🌱 **Currently Learning**
-Docker orchestration and advanced cloud deployments on AWS
-
-### 👯 **Looking to Collaborate**
-Open-source projects, particularly full-stack development and developer tools
-
-</td>
-<td width="50%">
-
-### 🤔 **Looking for Help With**
-Optimizing database queries and improving application performance
-
-### 💬 **Ask Me About**
-Full-stack development best practices, API design, web technologies
-
-### ⚡ **Fun Fact**
-I have 5,000+ hours in Dota 2, but I still haven't found a hero I can't feed with! 🎮
-
-</td>
-</tr>
-</table>
+- 🔭 Currently working on **scalable data-driven applications** with modern microservices  
+- 🌱 Learning about **Docker orchestration & AWS cloud deployments**  
+- 👯 Open to collaborate on **open-source & developer tools**  
+- 🤔 Seeking help with **database performance optimization**  
+- 💬 Ask me about **API design, modern web tech, and full-stack best practices**  
+- ⚡ Fun fact: *Even after 5000+ hours in Dota 2, I can still feed on ANY hero!* 😅  
 
 ---
 
-## 🛠️ Skills & Expertise
-
-### 💻 Programming Languages
-<div align="center">
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-
-</div>
-
-### 🚀 Libraries & Frameworks
-<div align="center">
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
-![Nuxt.js](https://img.shields.io/badge/Nuxt-002E3B?style=for-the-badge&logo=nuxtdotjs&logoColor=#00DC82)
-
-</div>
+## 🛠️ Tech Stack  
 
 <div align="center">
 
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
-![D3.js](https://img.shields.io/badge/d3.js-F9A03C?style=for-the-badge&logo=d3.js&logoColor=white)
-![Material UI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white)
+### 💻 Languages
+![JavaScript](https://img.shields.io/badge/JavaScript-181717?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-181717?style=for-the-badge&logo=typescript&logoColor=3178C6)
+![Python](https://img.shields.io/badge/Python-181717?style=for-the-badge&logo=python)
+![Node.js](https://img.shields.io/badge/Node.js-181717?style=for-the-badge&logo=node.js&logoColor=339933)
+![MySQL](https://img.shields.io/badge/MySQL-181717?style=for-the-badge&logo=mysql&logoColor=4479A1)
+
+---
+
+### 🚀 Frameworks & Libraries
+![React](https://img.shields.io/badge/React-181717?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Angular](https://img.shields.io/badge/Angular-181717?style=for-the-badge&logo=angular&logoColor=DD0031)
+![Vue](https://img.shields.io/badge/Vue.js-181717?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
+![Express](https://img.shields.io/badge/Express-181717?style=for-the-badge&logo=express&logoColor=white)
+![Nuxt](https://img.shields.io/badge/Nuxt-181717?style=for-the-badge&logo=nuxtdotjs&logoColor=00DC82)
+
+![Pandas](https://img.shields.io/badge/Pandas-181717?style=for-the-badge&logo=pandas&logoColor=150458)
+![NumPy](https://img.shields.io/badge/NumPy-181717?style=for-the-badge&logo=numpy&logoColor=013243)
+![Plotly](https://img.shields.io/badge/Plotly-181717?style=for-the-badge&logo=plotly&logoColor=white)
+![D3.js](https://img.shields.io/badge/D3.js-181717?style=for-the-badge&logo=d3.js&logoColor=F9A03C)
+![Material UI](https://img.shields.io/badge/MUI-181717?style=for-the-badge&logo=mui&logoColor=007FFF)
+
+---
+
+### 🧪 Testing
+![Jest](https://img.shields.io/badge/Jest-181717?style=for-the-badge&logo=jest&logoColor=C21325)
+![Testing Library](https://img.shields.io/badge/Testing%20Library-181717?style=for-the-badge&logo=testing-library&logoColor=E33332)
+
+---
+
+### 🔧 Tools & Cloud
+![Git](https://img.shields.io/badge/Git-181717?style=for-the-badge&logo=git&logoColor=F05032)
+![AWS](https://img.shields.io/badge/AWS-181717?style=for-the-badge&logo=amazon-aws&logoColor=FF9900)
+![Docker](https://img.shields.io/badge/Docker-181717?style=for-the-badge&logo=docker&logoColor=2496ED)
+![Postman](https://img.shields.io/badge/Postman-181717?style=for-the-badge&logo=postman&logoColor=FF6C37)
+![Jira](https://img.shields.io/badge/Jira-181717?style=for-the-badge&logo=jira&logoColor=0052CC)
+![Jenkins](https://img.shields.io/badge/Jenkins-181717?style=for-the-badge&logo=jenkins&logoColor=D24939)
 
 </div>
 
-<div align="center">
+---
 
-![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
-![Testing-Library](https://img.shields.io/badge/-TestingLibrary-%23E33332?style=for-the-badge&logo=testing-library&logoColor=white)
-
-</div>
-
-### 🔧 Tools & Platforms
-<div align="center">
-
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-
-</div>
-
-<div align="center">
-
-![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
-![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
-![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)
-
-</div>
-
-### 🏗️ Core Concepts & Specializations
+## 🏗️ Core Expertise  
 
 <table align="center">
 <tr>
-<td align="center">
+<td align="center" width="33%">
 
-**🏛️ Architecture**
-- Microservices
-- API Gateway
-- RESTful APIs
-
-</td>
-<td align="center">
-
-**☁️ Cloud & DevOps**
-- Docker Orchestration
-- AWS Deployments
-- CI/CD Pipelines
+🏛 **Architecture**  
+- Microservices  
+- API Gateway  
+- RESTful APIs  
 
 </td>
-<td align="center">
+<td align="center" width="33%">
 
-**🌐 IoT Expertise**
-- OPCUA Protocol
-- Data-Driven Applications
-- Real-time Processing
+☁️ **Cloud & DevOps**  
+- Docker Orchestration  
+- AWS Deployments  
+- CI/CD Pipelines  
+
+</td>
+<td align="center" width="33%">
+
+🌐 **IoT & Data**  
+- OPCUA Protocol  
+- Real-time Processing  
+- Data-Driven Apps  
 
 </td>
 </tr>
@@ -135,10 +100,33 @@ I have 5,000+ hours in Dota 2, but I still haven't found a hero I can't feed wit
 
 ---
 
+## 📊 GitHub Stats & Activity  
+
 <div align="center">
 
-### 📊 **Pronouns:** he/him
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Saurabh-Biware&theme=tokyonight&show_icons=true&include_all_commits=true&count_private=true)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Saurabh-Biware&theme=tokyonight)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Saurabh-Biware&theme=tokyonight&layout=compact)
 
-*Building the future, one line of code at a time* ✨
+</div>
+
+---
+
+## 🔥 GitHub Activity Snake  
+
+<div align="center">
+
+![GitHub Snake](https://github.com/Saurabh-Biware/Saurabh-Biware/blob/output/github-contribution-snake.svg)  
+
+</div>
+
+---
+
+<div align="center">
+
+### 📫 Connect With Me  
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-181717?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://linkedin.com/in/your-profile)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-181717?style=for-the-badge&logo=About.me&logoColor=white)](https://your-portfolio-link.com)  
 
 </div>
